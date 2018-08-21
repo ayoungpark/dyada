@@ -52,8 +52,8 @@
 
 
 .row.bg-skyblue{background:#fff;}
-.row.bg-gray{background:_gray;}
-.row.bg-pink{background:pink;}
+.card.bg-gray{background:gray;}
+.card.bg-pink{background:pink;}
 .span_3 bg-green{background:_green;}
 .row.bg-red{background:_red;}
 
