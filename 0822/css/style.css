@@ -8,7 +8,7 @@ color:#f2f2f2;}
 .active {background:#92d050;color:red;}
 
 .topnav a.icon{display:none;}
-.topnav a.icon{float:right;display:block;}
+/* .topnav a.icon{float:right;} */
 
 @media screen and (max-width:600px){
 	/* .topnav a.icon{float:right;display:block;} */
